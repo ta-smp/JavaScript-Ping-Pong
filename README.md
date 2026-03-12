@@ -1,2 +1,2 @@
-# JSPong
-A simple Pong game built in ES6
+# JavaScript Ping Pong
+Ping Pong game built JavaScript ES6
